@@ -4,4 +4,4 @@
 - Corregido bug en archivos MP3 grandes
 - Nueva interfaz más moderna
 - Soporte para audios de hasta 2 horas
-https://drive.usercontent.google.com/download?id=1-3sbxQgmPstWUPT4Z9xkGXZ-unJaakrr&export=download&confirm=t
+https://drive.usercontent.google.com/download?id=1dPUWmVCX1vXy8WI0rDi_jxvPRrt8N-R3&export=download&confirm=t
