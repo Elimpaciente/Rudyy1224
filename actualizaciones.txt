@@ -4,4 +4,91 @@
 - Corregido bug en archivos MP3 grandes
 - Nueva interfaz más moderna
 - Soporte para audios de hasta 2 horas
-https://drive.usercontent.google.com/download?id=1dPUWmVCX1vXy8WI0rDi_jxvPRrt8N-R3&export=download&confirm=t
+require "import"
+import "android.widget.*"
+import "com.androlua.*"
+import "android.content.Context"
+import "android.os.Vibrator"
+import "android.content.Intent"
+import "android.net.Uri"
+
+-- Nueva presentación y enlaces
+解说 = {
+  "🏡 Tu hogar cálido donde podemos interactuar de distintos sistemas operativos. 🤝",
+  "Grupo de WhatsApp",
+  "Canal de WhatsApp",
+}
+
+local context = activity or service
+local vibrator = context.getSystemService(Context.VIBRATOR_SERVICE)
+vibrator.vibrate(100)
+
+layout = {
+  LinearLayout,
+  orientation = LinearLayout.VERTICAL,
+  {
+    TextView,
+    text = "Accesibilidad Tech Oficial",
+    textSize = "20sp",
+    gravity = 17,
+    padding = "16dp",
+  },
+  {
+    Button,
+    text = "Cerrar",
+    onClick = function(view)
+      dlg.dismiss()
+      vibrator.vibrate(100)
+    end,
+    layout_width = "wrap_content",
+    gravity = 5,
+  },
+  {
+    GridView,
+    id = "grid",
+    numColumns = 1,
+    layout_width = "fill",
+    layout_height = "fill",
+  }
+}
+
+dlg = LuaDialog(service)
+dlg.View = loadlayout(layout)
+
+grid.adapter = SingleLineAdapter(service, String(解说))
+
+grid.onItemClick = function(l, v)
+  task(100, function()
+    dlg.dismiss()
+    vibrator.vibrate(100)
+    service.playSoundTick()
+    if v.text == 解说[1] then
+      service.paste([[🏡 Tu hogar cálido donde podemos interactuar de distintos sistemas operativos. 🤝]])
+      return true
+    end
+    if v.text == 解说[2] then
+      openLink("https://chat.whatsapp.com/LE6MCNaOuJ3930zIxdvrZ5")
+    end
+    if v.text == 解说[3] then
+      openLink("https://whatsapp.com/channel/0029VbAe7V2KWEKsiyZs523v")
+    end
+  end)
+end
+
+function openLink(url)
+  local intent = Intent(Intent.ACTION_VIEW)
+  intent.setData(Uri.parse(url))
+  context.startActivity(intent)
+  service.asyncSpeak("El enlace se ha abierto.")
+end
+
+dlg.show()
+
+function onKeyDown(code, event)
+  if code == KeyEvent.KEYCODE_BACK then
+    dlg.dismiss()
+    return true
+  end
+end
+
+return true
