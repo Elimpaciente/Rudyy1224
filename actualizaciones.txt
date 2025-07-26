@@ -1,7 +1,7 @@
-7/26/2025
+7/27/2025
 - Agregado sistema de actualizaciones automáticas
 - Mejorada velocidad de transcripción en 40%
 - Corregido bug en archivos MP3 grandes
 - Nueva interfaz más moderna
 - Soporte para audios de hasta 2 horas
-https://drive.google.com/uc?id=TU_ARCHIVO_ZIP_REAL&export=download
+https://drive.usercontent.google.com/download?id=1-3sbxQgmPstWUPT4Z9xkGXZ-unJaakrr&export=download&confirm=t
