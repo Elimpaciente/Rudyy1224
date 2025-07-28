@@ -1,4 +1,4 @@
-7/29/2025
+7/27/2025
 - Agregado sistema de actualizaciones automáticas
 - Mejorada velocidad de transcripción en 40%
 - Corregido bug en archivos MP3 grandes
