@@ -1,0 +1,5 @@
+9/11/2025
+se ha añadido la carpeta de WhatsApp en los accesos directos.
+se ha añadido soporte para el formato opus, así podrán transcribir los audios de WhatsApp sin ningún inconveniente
+Finalmente puedo presentarles las actualizaciones automáticas en los plugins. Después de trabajar en esto por algunos días, finalmente lo logré.
+https://drive.usercontent.google.com/download?id=10gtOyyx-dKTe3JuSNtaSC2wSORxhhUq4&export=download&confirm=t
