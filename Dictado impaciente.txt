@@ -1,5 +1,6 @@
-9/10/2025
-se ha añadido la carpeta de WhatsApp en los accesos directos.
-se ha añadido soporte para el formato opus, así podrán transcribir los audios de WhatsApp sin ningún inconveniente
-Finalmente puedo presentarles las actualizaciones automáticas en los plugins. Después de trabajar en esto por algunos días, finalmente lo logré.
+9/11/2025
+Se corrigió un error el cual no te permitía activar o desactivar un comando.
+Se optimizó la experiencia al usar el interruptor de los emojis; ahora se añaden acorde al texto.
+Se optimizó la interfaz para cambiar una clave API o seleccionar un modelo.
+Nota: Los cuatro modelos que están en las configuraciones son para texto..pero aún así se usan para escribir el texto, para convertir texto a audio.
 https://drive.usercontent.google.com/download?id=10gtOyyx-dKTe3JuSNtaSC2wSORxhhUq4&export=download&confirm=t
