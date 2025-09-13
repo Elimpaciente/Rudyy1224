@@ -1,6 +1,5 @@
-9/11/2025
-Se corrigió un error el cual no te permitía activar o desactivar un comando.
-Se optimizó la experiencia al usar el interruptor de los emojis; ahora se añaden acorde al texto.
+9/13/2025
+El comando para las instrucciones fue añadido, no estaba en versiones anteriores, digamos que se me pasó por alto. Eso, apenas cuando me di cuenta, puesDigamos que no lo puse hasta ahora.
 Se optimizó la interfaz para cambiar una clave API o seleccionar un modelo.
 Nota: Los cuatro modelos que están en las configuraciones son para texto..pero aún así se usan para escribir el texto, para convertir texto a audio.
 https://drive.usercontent.google.com/download?id=10gtOyyx-dKTe3JuSNtaSC2wSORxhhUq4&export=download&confirm=t
