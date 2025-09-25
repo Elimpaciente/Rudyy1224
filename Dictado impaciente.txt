@@ -1,5 +1,5 @@
-9/13/2025
-El comando para las instrucciones fue añadido, no estaba en versiones anteriores, digamos que se me pasó por alto. Eso, apenas cuando me di cuenta, puesDigamos que no lo puse hasta ahora.
-Se optimizó la interfaz para cambiar una clave API o seleccionar un modelo.
-Nota: Los cuatro modelos que están en las configuraciones son para texto..pero aún así se usan para escribir el texto, para convertir texto a audio.
+9/24/2025
+El comando para las instrucciones ahora viene desactivado predeterminadamente. Los únicos comandos que vienen activados son tanto ajustes como el comando para convertir texto a audio con las voces de Gémini.
+Se añadieron nuevos modelos, no de Géminis, sino que ahora estos modelos son de groc.Se optimizó la interfaz para cambiar una clave API o seleccionar un modelo.
+Las preferencias fueron restablecidas, así que van a tener que iniciar las configuraciones. Eso se hizo por el tema de los nuevos modelos que se añadieron.
 https://drive.usercontent.google.com/download?id=10gtOyyx-dKTe3JuSNtaSC2wSORxhhUq4&export=download&confirm=t
