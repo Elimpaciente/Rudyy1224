@@ -1,9 +1,9 @@
 {
   "usuarios": [
-    "euspgalvez",
-    "Rudyy1224",
-    "ChuyBautista",
-    "carlos777",
-    "maynortreminio0"
+    {"username": "euspgalvez", "public_name": "Tiflotech"},
+    {"username": "Rudyy1224", "public_name": ""},
+    {"username": "ChuyBautista", "public_name": "Mi Android Accesible"},
+    {"username": "carlos777", "public_name": ""},
+    {"username": "maynortreminio0", "public_name": "TechVisionary"}
   ]
 }
