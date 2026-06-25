@@ -1,9 +1,11 @@
-{  
-"usuarios": [    
-{"username": "euspgalvez", "public_name": "Tiflotech"},    
-{"username": "Rudyy1224", "public_name": ""},    
-{"username": "ChuyBautista", "public_name": "Mi Android Accesible"},    
-{"username": "kevinsanchezs", "public_name": "Accesorios para jieshuo"},    
-{"username": "maynortreminio0", "public_name": "TechVisionary"}  
-]
+{
+  "usuarios": [
+    {"username": "euspgalvez", "public_name": "Tiflotech"},
+    {"username": "Rudyy1224", "public_name": "Plugins impacientes"},
+    {"username": "ChuyBautista", "public_name": "Mi Android Accesible"},
+    {"username": "kevinsanchezs", "public_name": "Accesorios para jieshuo"},
+    {"username": "maynortreminio0", "public_name": "TechVisionary"},
+    {"username": "carlos777", "public_name": "Tutoriales para ciegos"},
+    {"username": "emmanuelcruz225", "public_name": "Complementos bélicos"}
+  ]
 }
