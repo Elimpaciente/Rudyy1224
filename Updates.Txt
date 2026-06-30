@@ -1,5 +1,5 @@
-7/1/2025
-se ha añadido la carpeta de WhatsApp en los accesos directos.
-se ha añadido soporte para el formato opus, así podrán transcribir los audios de WhatsApp sin ningún inconveniente
-Finalmente puedo presentarles las actualizaciones automáticas en los plugins. Después de trabajar en esto por algunos días, finalmente lo logré.
+6/30/2026
+Se ha añadido un sistema de mensajes en el complemento. Esto significa que podré comunicar cosas, por ejemplo, avisos importantes en el complemento.
+Gracias a Emanuel Cruz se ha añadido una opción para poder ordenar los complementos del más reciente al más antiguo o de manera alfabética. Esto es local, solo se queda en tu dispositivo.
+Y bueno, eso es todo. Saludos.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
