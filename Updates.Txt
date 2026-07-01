@@ -1,4 +1,5 @@
-6/30/2026
+7/1/2026
+Corrección de errores.
 Se ha añadido un sistema de mensajes en el complemento. Esto significa que podré comunicar cosas, por ejemplo, avisos importantes en el complemento.
 Gracias a Emanuel Cruz se ha añadido una opción para poder ordenar los complementos del más reciente al más antiguo o de manera alfabética. Esto es local, solo se queda en tu dispositivo.
 Y bueno, eso es todo. Saludos.
