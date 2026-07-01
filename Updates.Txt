@@ -1,7 +1,3 @@
-7/2/2026
-Corrección de errores.
-Se solucionó un error por el cual habían complementos que no se estaban mostrando.
-Se ha añadido un sistema de mensajes en el complemento. Esto significa que podré comunicar cosas, por ejemplo, avisos importantes en el complemento.
-Gracias a Emanuel Cruz se ha añadido una opción para poder ordenar los complementos del más reciente al más antiguo o de manera alfabética. Esto es local, solo se queda en tu dispositivo.
-Y bueno, eso es todo. Saludos.
+7/3/2026
+Se arregló el caos que apareció en la interfaz principal; digamos que fueron unas optimizaciones de código que tuve que hacer. Es recomendable que actualicen a esta última versión.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
