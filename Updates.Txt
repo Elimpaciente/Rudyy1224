@@ -1,4 +1,4 @@
-7/13/2026
-Se añadió un sistema en donde los creadores de complementos que estén autorizados podrán añadir su propio mensaje en el propio apartado de ellos mismos, por ejemplo, si yo pongo un mensaje en mi apartado, ustedes podrán verlo; esto está separado de los mensajes globales.
-Hablando de mensajes globales,Se implementó un sistema en el que en vez de que el mensaje aparezca en la parte superior de la interfaz, como antes, ahora aparece en un apartado que dice notificaciones, el cual te notifica cuando hay un nuevo mensaje.
+7/16/2026
+Corrección de algunos errores con el tema de los anuncios personalizados.
+Se implementó un sistema en el que en vez de que el mensaje aparezca en la parte superior de la interfaz, como antes, ahora aparece en un apartado que dice notificaciones, el cual te notifica cuando hay un nuevo mensaje.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
