@@ -1,4 +1,7 @@
-7/19/2026
+7/20/2026
+• Se implementó un contador de descargas por cada complemento. Así, podrás saber cuáles son los complementos más descargados de cada usuario. 
 
-Se agregó un botón en dónde vienen algunas configuraciones que se implementaron. Y dentro de este mismo, vienen las instrucciones de uso.
+• En el botón ordenar se agregó la opción de más populares. Esta nueva opción tiene que ver con el contador de descargas antes mencionado. 
+
+• Es importante leer las instrucciones de uso para que sepas cómo usar mucho mejor la Tienda de complementos. Estas mismas, las puedes encontrar dentro del botón de configuraciones.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
