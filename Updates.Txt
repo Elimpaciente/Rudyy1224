@@ -1,3 +1,3 @@
-7/21/2026
-• Se corrigieron algunos errores que se fueron detectando. 
+7/24/2026
+• En esta nueva actualización se agregó un nuevo botón de tutorial. Y en caso que un complemento tenga un tutorial existente, vendrá la opción donde podrás ir directamente a ese video. 
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
