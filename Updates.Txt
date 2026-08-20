@@ -1,4 +1,4 @@
-8/23/2026
-• Se corrigieron errores. 
-• Se optimizó la tienda por un mejor funcionamiento. 
+8/24/2026
+• Se corrigieron errores.
+• Se optimizó la tienda por un mejor funcionamiento.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
