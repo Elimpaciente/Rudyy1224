@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tien
 • Menos tiempo de espera al entrar y salir de pantallas
 • Optimizamos cómo se actualiza la información después de instalar, subir o modificar un complemento, para que los cambios se reflejen al momento sin tener que volver a cargar todo el servidor desde cero.
 --[[ 
-0.1 
+0.1
 • Carga más veloz de la lista de creadores
 • Antes, para mostrar cuántos complementos tiene cada desarrollador, la tienda tenía que consultar uno por uno a todos los creadores registrados. Ahora se consulta una sola vez toda la información de golpe, así que la pantalla de "Selecciona un usuario" aparece de forma casi instantánea.
 • Menos tiempo de espera al entrar y salir de pantallas
