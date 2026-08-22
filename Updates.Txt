@@ -1,4 +1,4 @@
-v1.1
+v1.0
 prueba 
 Para ver si funciona. 
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
