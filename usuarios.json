@@ -4,7 +4,7 @@
  {"username": "Rudyy1224", "public_name": "Plugins impacientes", "can_notify": true},
  {"username": "ChuyBautista", "public_name": "Mi Android Accesible", "can_notify": true},
  {"username": "kevinsanchezs", "public_name": "Accesorios para jieshuo", "can_notify": false},
- {"username": "carlos777", "public_name": "Tutoriales para ciegos", "can_notify": true},
+ {"username": "carlos777", "public_name": "Tutoriales para ciegos", "can_notify": false},
  {"username": "emmanuelcruz225", "public_name": "Jieshuo MX", "can_notify": true}
  ]
 }
