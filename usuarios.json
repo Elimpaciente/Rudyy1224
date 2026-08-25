@@ -1,7 +1,7 @@
 {
  "usuarios": [
  {"username": "euspgalvez", "public_name": "Tiflotech", "can_notify": false, "can_delete_notify": false},
- {"username": "Rudyy1224", "public_name": "Plugins impacientes", "can_notify": false, "can_delete_notify": false},
+ {"username": "Rudyy1224", "public_name": "Plugins impacientes", "can_notify": true, "can_delete_notify": true},
  {"username": "ChuyBautista", "public_name": "Mi Android Accesible", "can_notify": true, "can_delete_notify": true},
  {"username": "kevinsanchezs", "public_name": "Accesorios para jieshuo", "can_notify": false, "can_delete_notify": false},
  {"username": "carlos777", "public_name": "Tutoriales para ciegos", "can_notify": true, "can_delete_notify": true},
