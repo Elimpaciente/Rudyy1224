@@ -1,4 +1,4 @@
-1.2
+v1.2
 La tienda de complementos se actualiza, Estas son las nuevas funciones.
 La opción de poder calificar complementos con estrellas y reseñas oficialmente ya ha sido integrada en esta versión. 
 La opción de reportar o sugerir está ya disponible; con esta función podrá  enviar reportes o sugerencia de funciones a nuestro equipo.
