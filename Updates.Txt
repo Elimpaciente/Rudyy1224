@@ -1,6 +1,5 @@
-v1.2
-La tienda de complementos se actualiza, Estas son las nuevas funciones.
-La opción de poder calificar complementos con estrellas y reseñas oficialmente ya ha sido integrada en esta versión. 
-La opción de reportar o sugerir está ya disponible; con esta función podrá  enviar reportes o sugerencia de funciones a nuestro equipo.
-Gracias por el apoyo.
+1.3
+Se corrigió un error, el cual, cuando entrabas a tu apartado como desarrollador con el modo compacto activado e intentaba ver las calificaciones de tus complementos,Mostraba un error y no se abría la ventana.
+Aún así es recomendable que todos actualicen, ya que en general estas actualizaciones son para que todo mundo actualice. 
+De antemano quiero agradecer al señor Kevin Sánchez por haberme informado sobre este error. 
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
