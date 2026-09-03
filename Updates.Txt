@@ -1,5 +1,6 @@
-1.1
-Servidor de respaldo: se agregó un servidor de respaldo adicional al principal, aún en fase de pruebas. Es necesario abrir la tienda al menos una vez después de actualizar, mientras el servidor principal esté funcionando, para que el respaldo quede guardado en tu dispositivo. Si después el servidor principal llega a caer, la tienda cambiará automáticamente al respaldo y te avisará que lo está usando. Si alguien instala la tienda o entra por primera vez cuando el servidor principal ya está caído, no habrá tenido oportunidad de guardar ese respaldo, así que podría ver el catálogo vacío hasta que el servidor principal vuelva a estar disponible.
-
-También se agregó un aviso de complemento sin encriptar al subir, editar o modificar, se optimizó el proceso de subida para los autores, y ahora se pueden ver en la interfaz principal las notificaciones de distintos desarrolladores con su autor, fecha y hora.
+1.2
+La tienda de complementos se actualiza, Estas son las nuevas funciones.
+La opción de poder calificar complementos con estrellas y reseñas oficialmente ya ha sido integrada en esta versión. 
+La opción de reportar o sugerir está ya disponible; con esta función podrá  enviar reportes o sugerencia de funciones a nuestro equipo.
+Gracias por el apoyo.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
