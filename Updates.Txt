@@ -1,5 +1,3 @@
-1.3
-Se corrigió un error, el cual, cuando entrabas a tu apartado como desarrollador con el modo compacto activado e intentaba ver las calificaciones de tus complementos,Mostraba un error y no se abría la ventana.
-Aún así es recomendable que todos actualicen, ya que en general estas actualizaciones son para que todo mundo actualice. 
-De antemano quiero agradecer al señor Kevin Sánchez por haberme informado sobre este error. 
+1.4
+Corrección de errores, más la función de reportar errores y sugerir funciones,Ha sido descartado y eliminado. 
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
