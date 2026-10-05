@@ -1,6 +1,6 @@
 {
  "usuarios": [
- {"username": "euspgalvez", "public_name": "Tiflotech", "can_notify": false},
+ {"username": "euspgalvez", "public_name": "Tiflotech", "can_notify": true},
  {"username": "Rudyy1224", "public_name": "Plugins impacientes", "can_notify": true},
  {"username": "ChuyBautista", "public_name": "Mi Android Accesible", "can_notify": true},
  {"username": "carlos777", "public_name": "Tutoriales para ciegos", "can_notify": true},
