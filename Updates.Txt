@@ -1,3 +1,6 @@
-1.5
-Corrección de errores, más la función de reportar errores y sugerir funciones,Ha sido descartado y eliminado. 
+1.6
+Se ha puesto un encriptador para los que quieran encriptar su código antes de subirlo. Esto es para los desarrolladores.
+A partir de ahora, todos los desarrolladores podrán subir notificaciones. Esto es para que los desarrolladores que están en la tienda, claro,Incluyendo los que no están en el equipo de desarrolladores que desarrollan esta tienda,Puedan aprovechar esta función de notificaciones globales.
+Y finalmente se ha integrado una función, la cual, cuando lo activas, cada cierto tiempo estará monitoreando las notificaciones globales; si aparece una notificación nueva, automáticamente se te notificará mediante una interfaz y también por voz.
+ Muchas gracias por usar nuestra tienda.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
