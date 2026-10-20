@@ -1,3 +1,3 @@
-1.7
-A partir de ahora, los creadores que están en la tienda podrán no solo publicar una notificación, sino también publicar todas las notificaciones que quieran.
+1.5
+Corrección de errores, más la función de reportar errores y sugerir funciones,Ha sido descartado y eliminado. 
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
