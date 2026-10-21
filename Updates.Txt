@@ -1,3 +1,3 @@
-1.8
-Última actualización. La tienda de complementos se renueva por completo, ahora ampliando su catálogo. ¡Atención, desarrolladores independientes! ¿Desean formar parte de una comunidad en donde tus proyectos sean conocidos por todo el mundo? Esta es tu oportunidad de formar parte de la tienda de complementos. Se integró la opción de registrarse para publicar tus plugins en nuestra comunidad. Lee los términos y condiciones con detalle para adaptarte a la mejor tienda de complementos. La única y original de todo Jieshuo. Se integró un cuadro de búsqueda en la interfaz principal para filtrar contenido de manera accesible. Esta es solo la primera versión de la tienda pública, recuerda que puedes dejar tus sugerencias en la sección de comentarios de esta publicación. Atentamente, el equipo de la tienda de complementos. ❤️
+1.9
+Se han solucionado problemas internos. ♥️
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
