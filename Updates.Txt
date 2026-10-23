@@ -1,3 +1,8 @@
-1.9
-Se han solucionado problemas internos. ♥️
+2.0
+Lista de cambios.
+Se integró la opción para fijar u ocultar a un usuario en específico mediante la pulsación larga en el perfil.
+Se agregó en configuración la opción de editar tu nombre de usuario.
+Se optimizó la búsqueda para permitir ocultar el teclado con la tecla Enter.
+Se optimizó la filtración de contenido, permitiéndote buscar ya no solo por perfil, sino que ahora también por complemento.
+Se restauró la opción de notificaciones que se había desactivado temporalmente por mantenimiento.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
