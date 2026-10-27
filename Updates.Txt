@@ -1,3 +1,5 @@
-2.1
-• Se corrigieron algunos errores y también se optimizaron otros. 
+2.2
+• Ahora puedes elegir entre dos interfaces: Entre páginas, que organiza la tienda en tres páginas y permite cambiar entre ellas deslizando dos dedos hacia la izquierda o derecha. Y Entre botones, que muestra todo en una sola lista.
+
+• Puedes cambiar de interfaz desde Configuraciones, en el apartado de "Cambiar interfaz de la tienda". Tu elección se guarda automáticamente.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
