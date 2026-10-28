@@ -1,4 +1,4 @@
-2.4
+3.0
 La tienda ahora permite reproducir los tutoriales desde el mismo complemento. Ya no tienes que ir a enlaces externos. Simplemente, al darle clic a “Ver tutorial”, puedes ver el tutorial desde el mismo complemento. 
 Los desarrolladores tienen que, previamente, tener el audio en su dispositivo si quieren aprovechar esta función al máximo. 
 Para los desarrolladores, ahora pueden eliminar una notificación solo dos veces. Si se equivocan a la segunda, no podrán publicar otra notificación.
