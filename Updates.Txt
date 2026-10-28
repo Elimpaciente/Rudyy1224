@@ -1,11 +1,7 @@
-2.6
+2.0
 • La principal novedad de esta actualización es que ahora la tienda tiene dos interfaces para elegir.
-
 • La interfaz predeterminada es: Entre páginas. En esta interfaz, la tienda se divide en tres páginas (Usuarios, Top 10 complementos más descargados, y Top 5 de desarrolladores con más descargas). Y para cambiar entre páginas, tienes que deslizar con dos dedos hacia la izquierda o hacia la derecha.
-
 • La otra es la interfaz antigua "Entre botones" donde todo aparece junto en una sola lista, incluidos los botones del Top 5 y del Top 10.
-
 • Puedes cambiar de una a otra interfaz cuando quieras desde el apartado de Configuraciones, con el botón "Cambiar interfaz de la tienda". Tu elección se guarda y se mantiene cada vez que abras la tienda.
-
 • También se optimizaron y se agregaron nuevas opciones en el apartado de configuraciones.
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
