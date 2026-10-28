@@ -1,4 +1,4 @@
-2.4
+2.5
 • La principal novedad de esta actualización es que ahora la tienda tiene dos interfaces para elegir.
 
 • La interfaz predeterminada es: Entre páginas. En esta interfaz, la tienda se divide en tres páginas (Usuarios, Top 10 complementos más descargados, y Top 5 de desarrolladores con más descargas). Y para cambiar entre páginas, tienes que deslizar con dos dedos hacia la izquierda o hacia la derecha.
