@@ -1,3 +1,3 @@
-3.8
-Se corrigió un error que no permitía subir un tutorial. 
+3.7
+Se solucionó un problema que no permitía publicar notificaciones, ver notificaciones, crear perfiles, subir y editar complementos, y ver calificaciones. 
 https://raw.githubusercontent.com/Elimpaciente/Tienda-de-complementos-/main/Tienda.zip
